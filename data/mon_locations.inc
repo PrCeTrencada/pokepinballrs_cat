@@ -6,7 +6,7 @@ gWildMonLocations:: @ 0x08055A84
 	.2byte SPECIES_CASCOON
 	.2byte SPECIES_DUSKULL
 	.2byte SPECIES_KECLEON
-	.2byte SPECIES_NONE
+	.2byte SPECIES_KECLEON
 	.2byte SPECIES_NONE
 
 	@ petalburg forest ruby rare
